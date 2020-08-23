@@ -67,7 +67,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 [Cryptography I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 

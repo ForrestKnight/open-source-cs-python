@@ -7,7 +7,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 If it has been awhile since you have been in the classroom or need to take your learning skills to the next level this course is mandatory. This is a survival kit for those who have busy lives and want to maxmize efficiency while learning.
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--: | :--:
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | 4 weeks | 4-5 hours / week | self-paced | none
 
 ## Computer Science Basics

@@ -2,6 +2,14 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+## Learning How to Efficiently Learn
+
+If it has been awhile since you have been in the classroom or need to take your learning skills to the next level this course is mandatory. This is a survival kit for those who have busy lives and want to maxmize efficiency while learning.
+
+Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | 4 wee
+
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites

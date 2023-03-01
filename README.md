@@ -8,7 +8,7 @@ If it has been awhile since you have been in the classroom or need to take your 
 
 Courses | School | Duration | Effort | Frequency | Prerequisites | Provider
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | 4 wee
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | 4 weeks | 4-5 hours / week | self-paced | none | |
 
 ## Computer Science Basics
 

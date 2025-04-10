@@ -84,6 +84,43 @@ Theory teaches you how to solve problems efficiently and how to reason about alg
 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | Once a month | Algorithms Theory |
 | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | Once a month | Part I |
 
+## Software Engineering
+
+This section focuses on professional software practices: how to write clean, maintainable code and work in teams using tools like Git and Agile methodology. You’ll also learn design patterns and testing techniques that lead to robust software systems.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Object-Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University | 4 weeks | 4-6 hours/week | Self-paced | Basic programming |
+| [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes) | University of Minnesota | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira) | Atlassian | 4 weeks | 4-5 hours/week | Self-paced | None |
+| [Design Patterns](https://www.coursera.org/learn/design-patterns) | University of Alberta | 4 weeks | 4-6 hours/week | Self-paced | OOP experience |
+| [Version Control with Git](https://www.coursera.org/learn/introduction-git-github) | Atlassian | 4 weeks | 2-4 hours/week | Self-paced | None |
+| [Test-Driven Development (TDD) in Python](https://www.udemy.com/course/python-tdd/) | Udemy | ~3 hours | Self-paced | Python basics |
+
+This section helps you understand how to write maintainable, scalable, and testable code using modern software development methodologies and OOP principles. It also gives hands-on experience with tools like Git and Jira, used in real-world software teams.
+
+## Cybersecurity
+
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. This section introduces you to fundamental security concepts, cryptography, and practical skills needed to defend and assess systems.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Introduction to Cyber Security Specialization](https://www.coursera.org/specializations/intro-cyber-security) | NYU (via Coursera) | ~4 months | 4-6 hours/week | Self-paced | None |
+| [Cybersecurity for Everyone](https://www.coursera.org/learn/cyber-security) | University of Maryland | 8 weeks | 4-6 hours/week | Self-paced | None |
+| [Cybersecurity Basics](https://www.ibm.com/training/course/cybersecurity-basics) | IBM | 6 hours | Self-paced | Self-paced | None |
+| [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | Udacity | 6 weeks | 6-8 hours/week | Self-paced | Basic computer skills |
+
+## Networking
+
+Computer networking is the foundation of how devices communicate and share information. This section helps you understand internet protocols, TCP/IP, DNS, HTTP, and real-world tools used in network administration.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Computer Networking: Principles, Protocols and Practice](https://inl.info.ucl.ac.be/CNP3) | UCLouvain | Self-paced | ~20 hours | Self-paced | None |
+| [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 6 weeks | 5 hours/week | Self-paced | None |
+| [Introduction to Networking](https://www.coursera.org/learn/introduction-to-networking) | Cisco | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Network Security & Database Vulnerabilities](https://www.edx.org/course/network-security) | Rochester Institute of Technology | 8 weeks | 8-10 hours/week | Self-paced | Intro to networking |
+
 ## Applications
 
 Here, you explore how software applies in real-world domains like databases and cybersecurity. You’ll gain practical skills to manage and secure data, which are essential in industry roles.
@@ -101,22 +138,6 @@ The Unix command line is a powerful tool for developers. You’ll learn how to n
 | :-- | :--: | :--: | :--: | :--: | :-- |
 | [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | Self-paced | None |
 | [The Unix Workbench](https://www.coursera.org/learn/unix) | Johns Hopkins University | 4 weeks | 4 hours/week | Once a month | None |
-
-## Software Engineering
-
-This section focuses on professional software practices: how to write clean, maintainable code and work in teams using tools like Git and Agile methodology. You’ll also learn design patterns and testing techniques that lead to robust software systems.
-
-| Courses | School | Duration | Effort | Frequency | Prerequisites |
-| :-- | :--: | :--: | :--: | :--: | :-- |
-| [Object-Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University | 4 weeks | 4-6 hours/week | Self-paced | Basic programming |
-| [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes) | University of Minnesota | 4 weeks | 4-6 hours/week | Self-paced | None |
-| [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira) | Atlassian | 4 weeks | 4-5 hours/week | Self-paced | None |
-| [Design Patterns](https://www.coursera.org/learn/design-patterns) | University of Alberta | 4 weeks | 4-6 hours/week | Self-paced | OOP experience |
-| [Version Control with Git](https://www.coursera.org/learn/introduction-git-github) | Atlassian | 4 weeks | 2-4 hours/week | Self-paced | None |
-| [Test-Driven Development (TDD) in Python](https://www.udemy.com/course/python-tdd/) | Udemy | ~3 hours | Self-paced | Python basics |
-
-This section helps you understand how to write maintainable, scalable, and testable code using modern software development methodologies and OOP principles. It also gives hands-on experience with tools like Git and Jira, used in real-world software teams.
-
 
 ## Web Development
 
@@ -163,4 +184,3 @@ These projects allow you to apply your knowledge from across the curriculum in a
    - Find a beginner-friendly issue on GitHub (tag: good first issue)
    - Fork, contribute, and document your process
    - Link the pull request in your portfolio
-

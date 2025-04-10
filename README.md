@@ -84,6 +84,35 @@ Theory teaches you how to solve problems efficiently and how to reason about alg
 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | Once a month | Algorithms Theory |
 | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | Once a month | Part I |
 
+## Applications
+
+Here, you explore how software applies in real-world domains like databases and cybersecurity. You’ll gain practical skills to manage and secure data, which are essential in industry roles.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 7 weeks | 4-6 hours/week | Twice a month | Basic programming & CS knowledge |
+| [Cryptography I](https://www.coursera.org/learn/crypto) | Stanford | 7 weeks | 5 hours/week | Once a month | Linear Algebra, Probability |
+
+## Unix
+
+The Unix command line is a powerful tool for developers. You’ll learn how to navigate systems, manage files, and automate workflows—skills critical for any software engineer or data scientist.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | Self-paced | None |
+| [The Unix Workbench](https://www.coursera.org/learn/unix) | Johns Hopkins University | 4 weeks | 4 hours/week | Once a month | None |
+
+## Networking
+
+Computer networking is the foundation of how devices communicate and share information. This section helps you understand internet protocols, TCP/IP, DNS, HTTP, and real-world tools used in network administration.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Computer Networking: Principles, Protocols and Practice](https://inl.info.ucl.ac.be/CNP3) | UCLouvain | Self-paced | ~20 hours | Self-paced | None |
+| [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 6 weeks | 5 hours/week | Self-paced | None |
+| [Introduction to Networking](https://www.coursera.org/learn/introduction-to-networking) | Cisco | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Network Security & Database Vulnerabilities](https://www.edx.org/course/network-security) | Rochester Institute of Technology | 8 weeks | 8-10 hours/week | Self-paced | Intro to networking |
+
 ## Software Engineering
 
 This section focuses on professional software practices: how to write clean, maintainable code and work in teams using tools like Git and Agile methodology. You’ll also learn design patterns and testing techniques that lead to robust software systems.
@@ -109,35 +138,6 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 | [Cybersecurity for Everyone](https://www.coursera.org/learn/cyber-security) | University of Maryland | 8 weeks | 4-6 hours/week | Self-paced | None |
 | [Cybersecurity Basics](https://www.ibm.com/training/course/cybersecurity-basics) | IBM | 6 hours | Self-paced | Self-paced | None |
 | [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | Udacity | 6 weeks | 6-8 hours/week | Self-paced | Basic computer skills |
-
-## Networking
-
-Computer networking is the foundation of how devices communicate and share information. This section helps you understand internet protocols, TCP/IP, DNS, HTTP, and real-world tools used in network administration.
-
-| Courses | School | Duration | Effort | Frequency | Prerequisites |
-| :-- | :--: | :--: | :--: | :--: | :-- |
-| [Computer Networking: Principles, Protocols and Practice](https://inl.info.ucl.ac.be/CNP3) | UCLouvain | Self-paced | ~20 hours | Self-paced | None |
-| [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 6 weeks | 5 hours/week | Self-paced | None |
-| [Introduction to Networking](https://www.coursera.org/learn/introduction-to-networking) | Cisco | 4 weeks | 4-6 hours/week | Self-paced | None |
-| [Network Security & Database Vulnerabilities](https://www.edx.org/course/network-security) | Rochester Institute of Technology | 8 weeks | 8-10 hours/week | Self-paced | Intro to networking |
-
-## Applications
-
-Here, you explore how software applies in real-world domains like databases and cybersecurity. You’ll gain practical skills to manage and secure data, which are essential in industry roles.
-
-| Courses | School | Duration | Effort | Frequency | Prerequisites |
-| :-- | :--: | :--: | :--: | :--: | :-- |
-| [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 7 weeks | 4-6 hours/week | Twice a month | Basic programming & CS knowledge |
-| [Cryptography I](https://www.coursera.org/learn/crypto) | Stanford | 7 weeks | 5 hours/week | Once a month | Linear Algebra, Probability |
-
-## Unix
-
-The Unix command line is a powerful tool for developers. You’ll learn how to navigate systems, manage files, and automate workflows—skills critical for any software engineer or data scientist.
-
-| Courses | School | Duration | Effort | Frequency | Prerequisites |
-| :-- | :--: | :--: | :--: | :--: | :-- |
-| [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | Self-paced | None |
-| [The Unix Workbench](https://www.coursera.org/learn/unix) | Johns Hopkins University | 4 weeks | 4 hours/week | Once a month | None |
 
 ## Web Development
 

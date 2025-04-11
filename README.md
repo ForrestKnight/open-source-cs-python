@@ -139,7 +139,14 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 | [Cybersecurity Basics](https://www.ibm.com/training/course/cybersecurity-basics) | IBM | 6 hours | Self-paced | Self-paced | None |
 | [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | Udacity | 6 weeks | 6-8 hours/week | Self-paced | Basic computer skills |
 
-## Web Development
+
+## Specializations
+
+After building core computer science skills, you can branch into specialized domains based on your interests or career goals. These specializations allow you to go deeper into high-impact fields such as web development, robotics, DevOps, blockchain, game development, and mobile apps.
+
+---
+
+### 🌐 Web Development
 
 Web development enables you to build interactive applications and deploy them on the internet. You’ll learn both the frontend (user interface) and backend (server logic), making you a well-rounded developer.
 
@@ -149,6 +156,73 @@ Web development enables you to build interactive applications and deploy them on
 | [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) | freeCodeCamp | ~300 hours | Self-paced | Self-paced | None |
 | [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | freeCodeCamp | ~300 hours | Self-paced | Self-paced | None |
 | [Full Stack Open](https://fullstackopen.com/en/) | University of Helsinki | ~12 weeks | 15-20 hours/week | Self-paced | Basic JS |
+
+---
+
+### 🤖 Robotics / Embedded Systems
+
+This specialization explores how software controls hardware. You’ll gain hands-on experience with physical devices, sensors, and automation. It’s perfect for aspiring engineers interested in robotics, IoT, or embedded programming.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Introduction to Robotics](https://www.coursera.org/learn/robotics-foundations) | Columbia University | 10 weeks | 5-8 hours/week | Self-paced | Calculus, Linear Algebra |
+| [An Introduction to Programming the Internet of Things (IoT)](https://www.coursera.org/specializations/iot) | UC Irvine | 6 months | 6 hours/week | Self-paced | Python basics |
+| [Microcontrollers and the C Programming Language](https://www.coursera.org/learn/embedded-systems) | University of Colorado | 6 weeks | 6-8 hours/week | Self-paced | C programming helpful |
+| [Build Your Own Internet of Things (IoT) System](https://www.edx.org/course/build-your-own-internet-of-things) | Curtin University | 6 weeks | 3-4 hours/week | Self-paced | None |
+
+---
+
+### ☁️ DevOps & Cloud Engineering
+
+DevOps bridges software development and IT operations, enabling faster delivery, scalable applications, and automation. Learn how to build CI/CD pipelines, manage infrastructure as code, and deploy in the cloud.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) | Google | 6 months | 5-10 hours/week | Self-paced | Python |
+| [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | AWS | 4 weeks | 3-5 hours/week | Self-paced | None |
+| [Introduction to DevOps](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations) | LinuxFoundationX | 7 weeks | 2-3 hours/week | Self-paced | None |
+| [Continuous Integration and Continuous Deployment (CI/CD)](https://www.coursera.org/learn/cicd-pipeline-devops) | IBM | 4 weeks | 4-5 hours/week | Self-paced | Intro to DevOps |
+
+---
+
+### ⛓️ Blockchain & Web3
+
+Blockchain technology powers cryptocurrencies, decentralized applications (dApps), and smart contracts. This specialization introduces core blockchain concepts and gives hands-on experience with Ethereum, Solidity, and decentralized systems.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) | University at Buffalo | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) | Udemy | ~24 hours | Self-paced | JavaScript helpful |
+| [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) | University at Buffalo | ~4 months | 5-7 hours/week | Self-paced | Programming experience |
+| [CryptoZombies](https://cryptozombies.io/) | Loom Network | Self-paced | ~20 hours | Self-paced | None (interactive Solidity intro) |
+
+---
+
+### 🎮 Game Development
+
+Game development combines creativity, mathematics, and performance optimization. Learn to build interactive 2D/3D games, implement game physics, and develop with engines like Unity or Godot.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Game Development for Beginners with Unity](https://www.udemy.com/course/unitycourse/) | Udemy | ~20 hours | Self-paced | Self-paced | None |
+| [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) | Harvard | 12 weeks | 6-12 hours/week | Self-paced | Python or basic programming |
+| [Godot 4 Game Development for Beginners](https://www.udemy.com/course/godot-complete-beginner-course/) | Udemy | ~15 hours | Self-paced | None |
+| [Mathematics for Computer Graphics](https://www.coursera.org/learn/computer-graphics) | University of Tokyo | 5 weeks | 6-8 hours/week | Self-paced | Linear algebra |
+
+---
+
+### 📱 Mobile App Development
+
+Mobile development lets you create apps for Android and iOS platforms. This track covers both native and cross-platform approaches, using tools like Kotlin, Swift, and Flutter.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Developing Android Apps with Kotlin](https://developer.android.com/courses/pathways/android-basics-kotlin) | Google | ~8 weeks | 6-8 hours/week | Self-paced | Basic programming |
+| [iOS App Development with Swift](https://cs193p.sites.stanford.edu/) | Stanford | ~10 weeks | ~8-10 hours/week | Self-paced | Programming experience |
+| [Flutter Development Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) | Udemy | ~30 hours | Self-paced | None |
+| [Multiplatform Mobile App Development with Web Technologies](https://www.coursera.org/learn/hybrid-mobile-app-development) | Hong Kong University | 5 weeks | 6-8 hours/week | Self-paced | Web development basics |
+
+
 
 ## Capstone Project Suggestions
 

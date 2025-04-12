@@ -1,77 +1,260 @@
+
 # The Python Open Source Computer Science Degree
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+## Learning How to Efficiently Learn
+
+Before jumping into technical content, it’s crucial to build learning skills that will help you master complex subjects efficiently. This course offers science-backed strategies on memory, focus, and time management that will benefit you throughout the entire degree and beyond.
+
+If it has been a while since you've been in the classroom or need to take your learning skills to the next level, this course is essential. It's a survival kit for those with busy lives who want to maximize efficiency while learning.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | Deep Teaching Solutions | 4 weeks | 4-5 hours/week | Self-paced | None |
+
 ## Computer Science Basics
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+This foundational section introduces core principles of computer science: how computers work, what programming is, and how to think algorithmically. It sets the stage for deeper technical learning.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) | Harvard | 12 weeks | 10-20 hours/week | Self-paced | None |
 
 ## Programming
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/GjkPZr)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | none
-[Python Data Structures](https://imp.i384100.net/python-ds)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Programming for Everybody (Getting Started with Python)
-[Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures
-[Using Databases with Python](https://imp.i384100.net/2rebdg)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data
-[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://imp.i384100.net/python-capstone) | University of Michigan | 2 weeks | 4-6 hours/week | self-paced | Using Databases with Python
+Programming is the language of computers. These courses teach you how to write, debug, and structure code using Python—an accessible yet powerful language widely used in industry.
 
-###### Alternative
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Python 3 Programming Specialization](https://imp.i384100.net/MXVGb3) | University of Michigan | 5 months | 7 hours/week | self-paced | none
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) | University of Michigan | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Python Data Structures](https://www.coursera.org/learn/python-data) | University of Michigan | 6 weeks | 4-6 hours/week | Self-paced | Programming for Everybody |
+| [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | University of Michigan | 4 weeks | 4-6 hours/week | Self-paced | Python Data Structures |
+| [Using Databases with Python](https://www.coursera.org/learn/python-databases) | University of Michigan | 3 weeks | 4-8 hours/week | Self-paced | Using Python to Access Web Data |
+| [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | University of Michigan | 2 weeks | 4-6 hours/week | Self-paced | Using Databases with Python |
+
+### Alternative
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | 5 months | 7 hours/week | Self-paced | None |
 
 ## Math
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
-[Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
-[Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
+Math is the backbone of computer science and data analysis. This section covers calculus, linear algebra, and statistics—tools that enable deeper understanding in AI, simulations, data science, and graphics.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | Self-paced | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) |
+| [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | Self-paced | Calculus 1A |
+| [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | MIT | 8 weeks | 6-10 hours/week | Self-paced | Calculus 1B |
+| [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | Self-paced | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) |
+| [Introduction to Probability and Data with R](https://www.coursera.org/learn/probability-intro) | Duke University | 5 weeks | 5-7 hours/week | Twice a month | None |
+| [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 weeks | 5-7 hours/week | Self-paced | None |
 
 ## Data Science
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Data Science in Python](https://imp.i384100.net/5bG2n9) | University of Michigan | 3 weeks | 4-6 hours/week | self-paced | basic programming knowledge
-[Applied Plotting, Charting & Data Representation in Python](https://imp.i384100.net/AoQxjx) | University of Michigan | 4 weeks | 5-7 hours/week | self-paced | Introduction to Data Science in Python
-[Applied Machine Learning in Python](https://imp.i384100.net/gb7M6O) | University of Michigan | 6 weeks | 5-7 hours/week | self-paced | Applied Plotting, Charting & Data Representation in Python
-[Applied Text Mining in Python](https://imp.i384100.net/XxR0n4) | University of Michigan | 5 weeks | 5-7 hours/week | self-paced | Applied Machine Learning in Python
-[Applied Social Network Analysis in Python](https://imp.i384100.net/WDzWdG) | University of Michigan | 5 weeks | 5-7 hours/week | self-paced | Applied Text Mining in Python
+This track introduces you to working with data: cleaning it, visualizing trends, and applying machine learning. Data science skills are in high demand across nearly every industry today.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | University of Michigan | 4 weeks | 4-6 hours/week | Self-paced | Basic programming |
+| [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) | University of Michigan | 4 weeks | 5-7 hours/week | Self-paced | Intro to Data Science |
+| [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) | University of Michigan | 6 weeks | 5-7 hours/week | Self-paced | Applied Plotting |
+| [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) | University of Michigan | 5 weeks | 5-7 hours/week | Self-paced | Applied ML |
+| [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) | University of Michigan | 5 weeks | 5-7 hours/week | Self-paced | Text Mining |
 
 ## Systems
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](imp.i384100.net/6b13dV) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge
-[Build a Modern Computer from First Principles: From Nand to Tetris II](https://imp.i384100.net/dovNVq) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
-[Introduction to Operating Systems](https://imp.i115008.net/introduction-to-operating-systems)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II
+Understanding systems gives insight into how computers work under the hood—from logic gates to operating systems. This knowledge helps you write more efficient, low-level code and grasp how software interacts with hardware.
 
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | Twice a month | Basic programming knowledge |
+| [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | Once a month | Part I |
+| [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) | Georgia Tech | 8 weeks | 5-8 hours/week | Self-paced | Nand to Tetris II |
 
 ## Theory
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
-[Algorithms, Part I](https://imp.i384100.net/DVm9eo) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
-[Algorithms, Part II](https://imp.i384100.net/jW4xyv) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
+Theory teaches you how to solve problems efficiently and how to reason about algorithms and computation. It sharpens your ability to write code that not only works but works well.
 
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Computer Science: Algorithms, Theory, and Machines](https://www.edx.org/course/computer-science-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | Once a month | Calculus 1A, basic programming |
+| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | Once a month | Algorithms Theory |
+| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | Once a month | Part I |
 
 ## Applications
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Database Management Essentials](https://imp.i384100.net/kjvDMn) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
-[Cryptography I](https://imp.i384100.net/DVm9ej)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
+Here, you explore how software applies in real-world domains like databases and cybersecurity. You’ll gain practical skills to manage and secure data, which are essential in industry roles.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 7 weeks | 4-6 hours/week | Twice a month | Basic programming & CS knowledge |
+| [Cryptography I](https://www.coursera.org/learn/crypto) | Stanford | 7 weeks | 5 hours/week | Once a month | Linear Algebra, Probability |
 
 ## Unix
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none
-[The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none
+The Unix command line is a powerful tool for developers. You’ll learn how to navigate systems, manage files, and automate workflows—skills critical for any software engineer or data scientist.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | Self-paced | None |
+| [The Unix Workbench](https://www.coursera.org/learn/unix) | Johns Hopkins University | 4 weeks | 4 hours/week | Once a month | None |
+
+## Networking
+
+Computer networking is the foundation of how devices communicate and share information. This section helps you understand internet protocols, TCP/IP, DNS, HTTP, and real-world tools used in network administration.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Computer Networking: Principles, Protocols and Practice](https://inl.info.ucl.ac.be/CNP3) | UCLouvain | Self-paced | ~20 hours | Self-paced | None |
+| [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Google | 6 weeks | 5 hours/week | Self-paced | None |
+| [Introduction to Networking](https://www.coursera.org/learn/introduction-to-networking) | Cisco | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Network Security & Database Vulnerabilities](https://www.edx.org/course/network-security) | Rochester Institute of Technology | 8 weeks | 8-10 hours/week | Self-paced | Intro to networking |
+
+## Software Engineering
+
+This section focuses on professional software practices: how to write clean, maintainable code and work in teams using tools like Git and Agile methodology. You’ll also learn design patterns and testing techniques that lead to robust software systems.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Object-Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University | 4 weeks | 4-6 hours/week | Self-paced | Basic programming |
+| [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes) | University of Minnesota | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira) | Atlassian | 4 weeks | 4-5 hours/week | Self-paced | None |
+| [Design Patterns](https://www.coursera.org/learn/design-patterns) | University of Alberta | 4 weeks | 4-6 hours/week | Self-paced | OOP experience |
+| [Version Control with Git](https://www.coursera.org/learn/introduction-git-github) | Atlassian | 4 weeks | 2-4 hours/week | Self-paced | None |
+| [Test-Driven Development (TDD) in Python](https://www.udemy.com/course/python-tdd/) | Udemy | ~3 hours | Self-paced | Python basics |
+
+This section helps you understand how to write maintainable, scalable, and testable code using modern software development methodologies and OOP principles. It also gives hands-on experience with tools like Git and Jira, used in real-world software teams.
+
+## Cybersecurity
+
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. This section introduces you to fundamental security concepts, cryptography, and practical skills needed to defend and assess systems.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Introduction to Cyber Security Specialization](https://www.coursera.org/specializations/intro-cyber-security) | NYU (via Coursera) | ~4 months | 4-6 hours/week | Self-paced | None |
+| [Cybersecurity for Everyone](https://www.coursera.org/learn/cyber-security) | University of Maryland | 8 weeks | 4-6 hours/week | Self-paced | None |
+| [Cybersecurity Basics](https://www.ibm.com/training/course/cybersecurity-basics) | IBM | 6 hours | Self-paced | Self-paced | None |
+| [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | Udacity | 6 weeks | 6-8 hours/week | Self-paced | Basic computer skills |
+
+
+## Specializations
+
+After building core computer science skills, you can branch into specialized domains based on your interests or career goals. These specializations allow you to go deeper into high-impact fields such as web development, robotics, DevOps, blockchain, game development, and mobile apps.
+
+---
+
+### 🌐 Web Development
+
+Web development enables you to build interactive applications and deploy them on the internet. You’ll learn both the frontend (user interface) and backend (server logic), making you a well-rounded developer.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | Johns Hopkins University | 6 weeks | 5-10 hours/week | Self-paced | None |
+| [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) | freeCodeCamp | ~300 hours | Self-paced | Self-paced | None |
+| [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | freeCodeCamp | ~300 hours | Self-paced | Self-paced | None |
+| [Full Stack Open](https://fullstackopen.com/en/) | University of Helsinki | ~12 weeks | 15-20 hours/week | Self-paced | Basic JS |
+
+---
+
+### 🤖 Robotics / Embedded Systems
+
+This specialization explores how software controls hardware. You’ll gain hands-on experience with physical devices, sensors, and automation. It’s perfect for aspiring engineers interested in robotics, IoT, or embedded programming.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Introduction to Robotics](https://www.coursera.org/learn/robotics-foundations) | Columbia University | 10 weeks | 5-8 hours/week | Self-paced | Calculus, Linear Algebra |
+| [An Introduction to Programming the Internet of Things (IoT)](https://www.coursera.org/specializations/iot) | UC Irvine | 6 months | 6 hours/week | Self-paced | Python basics |
+| [Microcontrollers and the C Programming Language](https://www.coursera.org/learn/embedded-systems) | University of Colorado | 6 weeks | 6-8 hours/week | Self-paced | C programming helpful |
+| [Build Your Own Internet of Things (IoT) System](https://www.edx.org/course/build-your-own-internet-of-things) | Curtin University | 6 weeks | 3-4 hours/week | Self-paced | None |
+
+---
+
+### ☁️ DevOps & Cloud Engineering
+
+DevOps bridges software development and IT operations, enabling faster delivery, scalable applications, and automation. Learn how to build CI/CD pipelines, manage infrastructure as code, and deploy in the cloud.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) | Google | 6 months | 5-10 hours/week | Self-paced | Python |
+| [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | AWS | 4 weeks | 3-5 hours/week | Self-paced | None |
+| [Introduction to DevOps](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations) | LinuxFoundationX | 7 weeks | 2-3 hours/week | Self-paced | None |
+| [Continuous Integration and Continuous Deployment (CI/CD)](https://www.coursera.org/learn/cicd-pipeline-devops) | IBM | 4 weeks | 4-5 hours/week | Self-paced | Intro to DevOps |
+
+---
+
+### ⛓️ Blockchain & Web3
+
+Blockchain technology powers cryptocurrencies, decentralized applications (dApps), and smart contracts. This specialization introduces core blockchain concepts and gives hands-on experience with Ethereum, Solidity, and decentralized systems.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) | University at Buffalo | 4 weeks | 4-6 hours/week | Self-paced | None |
+| [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) | Udemy | ~24 hours | Self-paced | JavaScript helpful |
+| [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) | University at Buffalo | ~4 months | 5-7 hours/week | Self-paced | Programming experience |
+| [CryptoZombies](https://cryptozombies.io/) | Loom Network | Self-paced | ~20 hours | Self-paced | None (interactive Solidity intro) |
+
+---
+
+### 🎮 Game Development
+
+Game development combines creativity, mathematics, and performance optimization. Learn to build interactive 2D/3D games, implement game physics, and develop with engines like Unity or Godot.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Game Development for Beginners with Unity](https://www.udemy.com/course/unitycourse/) | Udemy | ~20 hours | Self-paced | Self-paced | None |
+| [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) | Harvard | 12 weeks | 6-12 hours/week | Self-paced | Python or basic programming |
+| [Godot 4 Game Development for Beginners](https://www.udemy.com/course/godot-complete-beginner-course/) | Udemy | ~15 hours | Self-paced | None |
+| [Mathematics for Computer Graphics](https://www.coursera.org/learn/computer-graphics) | University of Tokyo | 5 weeks | 6-8 hours/week | Self-paced | Linear algebra |
+
+---
+
+### 📱 Mobile App Development
+
+Mobile development lets you create apps for Android and iOS platforms. This track covers both native and cross-platform approaches, using tools like Kotlin, Swift, and Flutter.
+
+| Courses | School | Duration | Effort | Frequency | Prerequisites |
+| :-- | :--: | :--: | :--: | :--: | :-- |
+| [Developing Android Apps with Kotlin](https://developer.android.com/courses/pathways/android-basics-kotlin) | Google | ~8 weeks | 6-8 hours/week | Self-paced | Basic programming |
+| [iOS App Development with Swift](https://cs193p.sites.stanford.edu/) | Stanford | ~10 weeks | ~8-10 hours/week | Self-paced | Programming experience |
+| [Flutter Development Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) | Udemy | ~30 hours | Self-paced | None |
+| [Multiplatform Mobile App Development with Web Technologies](https://www.coursera.org/learn/hybrid-mobile-app-development) | Hong Kong University | 5 weeks | 6-8 hours/week | Self-paced | Web development basics |
+
+
+
+## Capstone Project Suggestions
+
+Capstone projects help you consolidate your knowledge by building something real. They also strengthen your portfolio, demonstrating your capabilities to potential employers or collaborators.
+
+These projects allow you to apply your knowledge from across the curriculum in a real-world setting. Choose one or more depending on your interests:
+
+1. **Personal Portfolio Website**
+   - Stack: HTML, CSS, JavaScript, and optionally a JS framework (React/Vue)
+   - Host it on GitHub Pages or Netlify
+   - Include your resume and links to all your completed projects
+
+2. **Data Analysis Pipeline**
+   - Stack: Python, Pandas, Matplotlib/Seaborn, Jupyter
+   - Choose a real dataset (e.g., from Kaggle) and perform EDA, visualizations, and modeling
+   - Document everything in a clear report or Jupyter Notebook
+
+3. **Full-Stack Web App**
+   - Stack: React + Node.js/Express + MongoDB or PostgreSQL
+   - Idea: Budget tracker, Task manager, Recipe app, etc.
+   - Deploy using Vercel/Render and include authentication
+
+4. **Nand to Tetris Final Project**
+   - Complete the Nand2Tetris computer by building an assembler or operating system components
+   - Demonstrate understanding of how computers work from the ground up
+
+5. **Machine Learning Mini Project**
+   - Stack: Python, scikit-learn, NumPy, Jupyter
+   - Implement a classifier or predictor (e.g., spam detector, price predictor)
+   - Explain your results and choices clearly
+
+6. **Open Source Contribution**
+   - Find a beginner-friendly issue on GitHub (tag: good first issue)
+   - Fork, contribute, and document your process
+   - Link the pull request in your portfolio
